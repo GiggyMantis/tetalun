@@ -1,0 +1,22 @@
+---
+This file is used as a reference for the tokiponization of character's names and their headnouns.
+sitelen ni la ona li sona e nimi pi jan mute lon toki pona.
+---
+Convetions:
+Monsters use the headnoun monsuta unless another one fits them better. Kris and the player use the headnoun jan.
+Double slashes may be used in this file to indicate comments, as in this line. jan Topi Pokasu // I would prefer jan Topi Po 
+
+Deltarune
+musi Tetalun
+
+Kris
+jan Kisu
+
+Asriel
+monsuta Asila
+
+Ralsei
+monsuta Lasi // No longer an anagram of Asriel. Fix?
+
+Susie
+monsuta Susi
