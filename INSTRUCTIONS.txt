@@ -7,3 +7,6 @@ Sadly due to how the game is programmed, the English version of lines from chapt
 STYLE
 Try to keep the quirks of the original game's locale intact. Words that are fully capitalized in the English translation should also be fully capitalized in the toki pona translation, even though it is nonstandard.
 Keep non-visible text tags intact. (Things like \\M0 and ^6). They are mostly used for color and timing.
+---
+YES AND NO
+If there is a specific YES/NO answer for a question, try to make the "yes" option be repeating the verb in the statement. The default "yes" option will be "lon" if the YES/NO specified is used for multiple questions.
