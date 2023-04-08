@@ -1,0 +1,5 @@
+---
+Translation work for chapter one occurs in the file lang_ja_ch1.json (You should reference lang_en_ch1.json for the meanings of lines)
+When translations for chapter two begin, lang_ja.json will have the chapter 1 data copied over for convienence.
+Sadly due to how the game is programmed, the English version of lines from chapter 2 are much harder to find.
+---
